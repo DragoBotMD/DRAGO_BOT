@@ -2,15 +2,9 @@
 
 ### `—◉ 🧬DUDAS SOBRE EL BOT?, CONTACTANOS🧬
 <a href="http://wa.me/5214531106422" target="blank"><img src="https://img.shields.io/badge/ALEXIS_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_OFC_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/ARMANDO_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/51975216165" target="blank"><img src="https://img.shields.io/badge/GAEL_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🌀 GRUPO DE SOPORTE 🌀`
 
@@ -133,6 +127,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/DragonBotMD"><img src="https://github.com/DragonBotMD.png" width="250" height="250" alt="BrunoSobrino"/></a>
+<a href="https://github.com/DragonBotMD"><img src="https://github.com/DragonBotMD.png" width="250" height="250" alt="DragonBotMD"/></a>
   
 `Dragon-Bot-MD - By ALEXIS OFC`
