@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
+    "name": "Dragon-Bot-MD",
     "version": "1.0.0",
-    "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
+    "description": "Creado por Alexis OFC ",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "AlexisOFC"
     },
     "repository": {
         "type": "git",
