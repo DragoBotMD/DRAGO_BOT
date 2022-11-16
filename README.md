@@ -1,4 +1,6 @@
-# `🐲𝙳𝚛𝚊𝚐𝚘𝚗-𝚋𝚘𝚝🐉`
+# <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px"> `🐲𝙳𝚛𝚊𝚐𝚘𝚗-𝚋𝚘𝚝🐉 <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
+
+<img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="200px">
 
 ### `—◉ 🧬DUDAS SOBRE EL BOT?, CONTACTANOS🧬
 <a href="http://wa.me/5214531106422" target="blank"><img src="https://img.shields.io/badge/ALEXIS_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
