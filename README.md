@@ -14,7 +14,7 @@
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### `—◉ 📌 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂  📌`
+### `—◉ 🌴 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂  🌴`
 
 
 <a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/1️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
