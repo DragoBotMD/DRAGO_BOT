@@ -6,11 +6,22 @@
 <a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/ARMANDO_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/51975216165" target="blank"><img src="https://img.shields.io/badge/GAEL_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 🌀 GRUPO DE SOPORTE 🌀`
+### `—◉ 🛸 GRUPO DE SOPORTE 🛸`
 
 <a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+
+### `—◉ 📌 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂  📌`
+
+
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/1️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/2️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/3️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/4️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/5️⃣COMUNIDAD_DRAGON-BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+> 💌𝙶𝚁𝚄𝙿𝙾𝚂 𝙿𝙰𝚁𝙰 𝙻𝙰 𝙳𝙸𝚅𝙴𝚁𝚂𝙸𝙾𝙽💌
 
 ### `—◉ 🎩 BOTS OFICIALES 🎩`
 
@@ -97,13 +108,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
@@ -127,6 +131,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/DragonBotMD"><img src="https://github.com/DragonBotMD.png" width="250" height="250" alt="DragonBotMD"/></a>
+<a href="https://github.com/DragoBotMD"><img src="https://github.com/DragoBotMD.png" width="250" height="250" alt="DragonBotMD"/></a>
   
 `Dragon-Bot-MD - By ALEXIS OFC`
